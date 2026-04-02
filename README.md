@@ -4,7 +4,7 @@
 ## System Configuration
 - Java Version: OpenJDK 21  
 - Operating System: macOS 
-- CPU: Apple M3
+- CPU: Apple M2
 
 ---
 
