@@ -1,10 +1,4 @@
-# DSA Assignment 2: Data Structures Performance Analysis
-
-## Student Information
-- Name: Zahraa A  
-- NetID: dal909120
-- Section: CS 3345.005
-
+# data Structures Performance Analysis
 ---
 
 ## System Configuration
